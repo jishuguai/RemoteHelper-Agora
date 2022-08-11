@@ -1,0 +1,350 @@
+[2022-07-17 13:45:33.619] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 13:45:33.648] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 13:45:36.674] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:36.680] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 13:45:36.680] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:36.686] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 13:45:36.686] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:36.803] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 13:45:36.812] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:36.903] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 13:45:39.039] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:39.419] [58036] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:45:39.419] [58036] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:45:39.420] [58036] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:45:39.422] [58036] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:45:59.195] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 13:45:59.196] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:45:59.294] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 13:45:59.295] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 13:45:59.300] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 13:45:59.454] [58036] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:19.921] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 13:55:19.963] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 13:55:22.004] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:22.007] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 13:55:22.008] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:22.014] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 13:55:22.014] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:22.018] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 13:55:22.069] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:22.148] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 13:55:24.325] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:24.717] [30608] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:55:24.718] [30608] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:55:24.719] [30608] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 13:55:51.741] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 13:55:51.743] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 13:55:51.816] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 13:55:51.817] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 13:55:51.825] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 13:55:51.968] [30608] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:29.383] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 14:03:29.429] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 14:03:31.804] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:31.811] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 14:03:31.813] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:31.972] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 14:03:31.975] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:31.975] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 14:03:31.992] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:32.031] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 14:03:34.133] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:34.529] [58928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:03:34.529] [58928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:03:34.530] [58928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:03:34.532] [58928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:03:54.853] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 14:03:54.854] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:03:54.950] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 14:03:54.950] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 14:03:54.954] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 14:03:55.117] [58928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:39.837] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 14:04:39.877] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 14:04:41.458] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:41.467] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 14:04:41.469] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:41.486] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 14:04:41.487] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:41.488] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 14:04:41.489] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:41.541] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 14:04:43.378] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:43.793] [60640] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:04:43.830] [60640] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:04:43.837] [60640] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:04:47.278] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 14:04:47.284] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:04:47.396] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 14:04:47.396] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 14:04:47.402] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 14:04:47.596] [60640] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:10.146] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 14:06:10.212] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 14:06:12.290] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:12.301] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 14:06:12.301] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:12.308] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 14:06:12.308] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:12.309] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 14:06:12.309] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:12.420] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 14:06:14.072] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:14.486] [60440] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:06:14.487] [60440] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:06:14.489] [60440] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:06:17.805] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 14:06:17.806] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:06:17.895] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 14:06:17.896] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 14:06:17.900] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 14:06:18.057] [60440] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:12.981] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-17 14:07:13.037] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-17 14:07:14.627] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:14.630] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-17 14:07:14.631] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:14.640] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-17 14:07:14.641] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:14.849] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-17 14:07:14.850] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:14.891] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-17 14:07:16.657] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:16.976] [62412] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:07:16.977] [62412] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:07:16.978] [62412] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-17 14:07:27.125] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-17 14:07:27.131] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-17 14:07:27.235] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-17 14:07:27.236] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-17 14:07:27.243] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-17 14:07:27.366] [62412] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:26.149] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-18 12:59:26.227] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-18 12:59:28.652] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:28.667] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-18 12:59:28.668] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:28.679] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-18 12:59:28.680] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:28.914] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-18 12:59:29.074] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:29.189] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-18 12:59:32.098] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 12:59:33.259] [53548] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 12:59:33.264] [53548] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 12:59:33.265] [53548] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 12:59:33.266] [53548] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:00:03.653] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-18 13:00:03.654] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:00:03.753] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-18 13:00:03.754] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-18 13:00:03.759] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-18 13:00:03.900] [53548] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:44.861] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-18 13:03:44.927] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-18 13:03:49.222] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:49.224] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-18 13:03:49.224] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:49.542] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-18 13:03:49.544] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:49.631] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-18 13:03:49.632] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:49.700] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-18 13:03:51.754] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:03:52.257] [54480] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:03:52.257] [54480] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:03:52.258] [54480] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:03:52.259] [54480] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:04:12.341] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-18 13:04:12.347] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:04:12.459] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-18 13:04:12.459] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-18 13:04:12.463] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-18 13:04:12.617] [54480] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:11.073] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-18 13:16:11.101] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-18 13:16:13.248] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:13.254] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-18 13:16:13.255] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:13.262] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-18 13:16:13.307] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:13.383] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-18 13:16:13.445] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:13.494] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-18 13:16:15.603] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:16:15.910] [60928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:16:15.911] [60928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:16:15.913] [60928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:16:15.914] [60928] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:17:01.476] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-18 13:17:01.476] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:17:01.576] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-18 13:17:01.576] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-18 13:17:01.583] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-18 13:17:01.734] [60928] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:45.450] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-18 13:19:45.471] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-18 13:19:47.213] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:47.215] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-18 13:19:47.216] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:47.224] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-18 13:19:47.224] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:47.235] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-18 13:19:47.251] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:47.327] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-18 13:19:48.991] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:19:49.502] [27700] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:19:49.503] [27700] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:19:49.505] [27700] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:19:49.506] [27700] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-18 13:21:22.364] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-18 13:21:22.365] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-18 13:21:22.475] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-18 13:21:22.475] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-18 13:21:22.480] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-18 13:21:22.614] [27700] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:22.524] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:03:22.597] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:03:27.983] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:27.999] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:03:28.002] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:28.013] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:03:28.018] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:28.019] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:03:28.020] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:28.037] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:03:30.256] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:31.633] [52528] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:03:31.690] [52528] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:03:31.746] [52528] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:03:31.769] [52528] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:03:43.658] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:03:43.659] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:03:43.785] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:03:43.797] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:03:43.800] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:03:44.029] [52528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:05:59.630] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:05:59.661] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:06:01.785] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:06:01.822] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:06:01.822] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:06:02.044] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:06:02.048] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:06:02.049] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:06:02.050] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:06:02.093] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:06:04.259] [53808] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:06:04.648] [53808] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:06:04.649] [53808] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:06:04.650] [53808] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:06:04.651] [53808] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:10:29.591] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:10:29.623] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:10:31.869] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:31.881] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:10:31.882] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:31.888] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:10:31.888] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:31.888] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:10:31.889] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:31.890] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:10:34.073] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:34.690] [57824] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:10:34.691] [57824] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:10:34.692] [57824] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:10:37.913] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:10:37.913] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:10:37.993] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:10:37.993] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:10:38.000] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:10:38.155] [57824] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:12:57.511] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:12:57.540] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:12:59.285] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:12:59.296] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:12:59.300] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:12:59.311] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:12:59.312] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:12:59.315] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:12:59.316] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:12:59.320] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:13:01.534] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:13:02.236] [63356] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:13:02.236] [63356] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:13:02.238] [63356] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:13:39.053] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:13:39.058] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:13:39.137] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:13:39.137] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:13:39.142] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:13:39.556] [63356] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:14:27.472] [47528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:14:27.553] [47528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:14:29.531] [47528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:14:29.536] [47528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:14:29.536] [47528] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:27.915] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:16:27.973] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:16:29.741] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:29.744] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:16:29.745] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:29.752] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:16:29.761] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:29.765] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:16:29.766] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:29.767] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:16:31.912] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:32.558] [42268] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:16:32.558] [42268] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:16:32.560] [42268] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:16:32.562] [42268] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:16:36.552] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:16:36.553] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:16:36.641] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:16:36.642] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:16:36.651] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:16:36.801] [42268] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:08.774] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:57:08.805] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:57:10.430] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:10.436] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:57:10.437] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:10.443] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:57:10.444] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:10.444] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:57:10.444] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:10.446] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:57:12.234] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:12.852] [56832] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:57:12.853] [56832] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:57:12.853] [56832] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:57:12.853] [56832] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:57:14.661] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:57:14.662] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:57:14.764] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:57:14.764] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:57:14.767] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:57:14.943] [56832] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:34.924] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\base\internal\log\iris_logger.cc:35 agora::iris::InitLogger 
+[2022-07-20 16:58:34.971] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 0 params {"context":{"appId":"cd307c4281714312963c158d9c264f58","logConfig":{"filePath":null,"fileSize":-1,"level":1},"areaCode":4294967295}}
+[2022-07-20 16:58:37.281] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:37.283] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 162 params {"appType":12}
+[2022-07-20 16:58:37.283] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:37.288] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 25 params {}
+[2022-07-20 16:58:37.288] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:37.288] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 15 params {}
+[2022-07-20 16:58:37.288] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:37.291] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 4 params {"token":"","channelId":"d910de32edbf48bdbbdde9adfe8dc21b","info":"info","uid":0}
+[2022-07-20 16:58:39.229] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:39.874] [49516] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:58:39.874] [49516] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:58:39.874] [49516] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:58:39.874] [49516] [error] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\internal\rtc_engine_event_handler.cc:56 agora::iris::rtc::RtcEngineEventHandler::onError err 110 msg nullptr
+[2022-07-20 16:58:41.233] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 6 params {}
+[2022-07-20 16:58:41.233] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
+[2022-07-20 16:58:41.322] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 206 params {}
+[2022-07-20 16:58:41.322] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 1 result 
+[2022-07-20 16:58:41.325] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:104 agora::iris::rtc::IrisRtcEngine::CallApi api_type 1 params {"sync":false}
+[2022-07-20 16:58:41.447] [49516] [debug] C:\workspace\workspace\AD\Agora-Iris\IRIS-SDK\rtc\cxx\src\iris_rtc_engine.cc:114 agora::iris::rtc::IrisRtcEngine::CallApi ret 0 result 
